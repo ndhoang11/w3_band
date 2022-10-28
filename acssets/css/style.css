@@ -179,8 +179,15 @@ padding-bottom: 25px;
     text-align: center;
     font-size: 15px;
     font-weight: 700;
+    color: #000;
+    text-decoration: none;
     padding-bottom:15px ;
 
+}
+#content .member-name:hover{
+    color: #f47425;
+    transition: 0.6s;
+    cursor: pointer;
 }
 
 
