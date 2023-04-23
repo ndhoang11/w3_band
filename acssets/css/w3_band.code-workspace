@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../tabs.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
